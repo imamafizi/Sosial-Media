@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Zii",
+      "email": "zii@mail.com",
+      "password": "purwadhika"
+    },
+    {
+      "username": "mamsky",
+      "email": "mamsky@gmail.com",
+      "password": "Admin123!",
+      "id": 2
+    },
+    {
+      "username": "abcde",
+      "email": "abc@mail.com",
+      "password": "Admin12!",
+      "id": 3
+    },
+    {
+      "username": "siapa",
+      "email": "siapa@mail.com",
+      "password": "Admin123!",
+      "id": 4
+    },
+    {
+      "username": "admin132",
+      "email": "admin132@mail.com",
+      "password": "Admin123!",
+      "id": 5
+    },
+    {
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "Admin123!",
+      "id": 6
+    }
+  ],
+  "tweets": [
+    {
+      "tweet": "cek date",
+      "userId": 6,
+      "date": "2023-12-01T04:08:06.501Z",
+      "id": 1
+    },
+    {
+      "tweet": "test",
+      "userId": 6,
+      "date": "2023-12-01T04:26:11.069Z",
+      "id": 2
+    },
+    {
+      "tweet": "cek refresh",
+      "userId": 6,
+      "date": "2023-12-01T06:34:04.144Z",
+      "id": 3
+    }
+  ]
+}
